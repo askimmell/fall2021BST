@@ -1,0 +1,184 @@
+  645 Talbot St. Mesquite TX 75150  151 Brickell St. Midland TX 79705  1 Clark Street Midland TX 79705  8448 East Nicolls Street Midland TX 79705  554 Glenwood Ave. Midland TX 79705
+  34 Maiden Ave. Austin TX 78753  591 North Johnson St. Austin TX 78759  104 North Sutor Street Austin TX 78749  939 Oakwood St. Austin TX 78745  585 Railroad St. Austin TX 78758
+  89 Del Monte St. Houston TX 77092  7046 Delaware Lane Houston TX 77064  11 Division St. Houston TX 77060  8889 Dunbar Street Houston TX 77020  680 Durham Dr. Houston TX 77074
+  9925 Smith St. El Paso TX 79907  9454 South Lookout Street El Paso TX 79912  117 St Louis Ave. El Paso TX 79905  8102 Third Street El Paso TX 79907  44 Tunnel St. El Paso TX 79925
+  69 Albany Street Plano TX 75023  23 Cottage Drive Plano TX 75025  13 Creekside Rd. Plano TX 75025  8084 Elizabeth Road Plano TX 75023  7468 Hall Court Plano TX 75093
+  40 NE. El Dorado St. San Antonio TX 78210  9742 Newcastle St. San Antonio TX 78240  149 Nicolls Road San Antonio TX 78210  29 North Columbia Drive San Antonio TX 78247  333 North Court Lane San Antonio TX 78212
+  67 East Fairfield St. Donna TX 78537  929 Hill Dr. Donna TX 78537  162 S. Prospect Drive Donna TX 78537  24 Summer Dr. Donna TX 78537  270 Adams Street Eagle Pass TX 78852
+  9949 Academy Ave. Corpus Christi TX 78415  7449 Beach Dr. Corpus Christi TX 78413  165 Belmont Street Corpus Christi TX 78415  427 Carson St. Corpus Christi TX 78415  615 Heritage Ave. Corpus Christi TX 78411
+  62 Grant Ave. Houston TX 77063  88 Green Hill Drive Houston TX 77063  18 Green Hill St. Houston TX 77040  77 Green Lake Dr. Houston TX 77076  8963 Gregory St. Houston TX 77092
+  26 W. Indian Spring St. El Paso TX 79905  25 West Grand Court El Paso TX 79930  18 Westport Ave. El Paso TX 79930  38 Windsor Dr. El Paso TX 79930  846 Arcadia St. Euless TX 76039
+  8343 Philmont Street Houston TX 77016  9192 Pineknoll St. Houston TX 77093  19 Piper Lane Houston TX 77020  88 Piper Street Houston TX 77099  9099 Prairie Road Houston TX 77008
+  65 Schoolhouse Street Brownsville TX 78520  85 Wayne St. Brownsville TX 78520  2 Hill St. Bryan TX 77803  163 Linden Road Bryan TX 77803  19 North 8th St. Bryan TX 77803
+  2 Cooper Ave. Amarillo TX 79109  19 Manor Station Ave. Amarillo TX 79106  2 Manor Station St. Amarillo TX 79107  14 Peachtree St. Amarillo TX 79109  98 Railroad Dr. Amarillo TX 79106
+  406 Sheffield Drive San Marcos TX 78666  7377 Highland Ave. Seguin TX 78155  20 Shub Farm Lane Seguin TX 78155  500 Walnutwood St. Seguin TX 78155  870 Bayport St. Spring TX 77373
+  411 Elizabeth Ave. Garland TX 75042  208 Fairfield Lane Garland TX 75040  200 Hall Lane Garland TX 75041  9998 Johnson Circle Garland TX 75040  59 Liberty Ave. Garland TX 75044
+  7419 Circle Avenue Arlington TX 76010  42 Fairground Ave. Arlington TX 76011  21 Fairway Dr. Arlington TX 76010  66 Grand Street Arlington TX 76010  8167 Green Hill Dr. Arlington TX 76011
+  9526 Central Avenue Katy TX 77450  68 Hartford St. Katy TX 77449  245 High Dr. Katy TX 77450  33 Lawrence Ave. Katy TX 77449  634 St Louis Street Katy TX 77450
+  521 Foster Road Pearland TX 77584  415 Joy Ridge Lane Pearland TX 77581  25 Lakeview Street Pearland TX 77584  7620 Locust St. Pearland TX 77584  9928 South Ave. Pearland TX 77581
+  62 Dunbar Ave. Dallas TX 75232  26 E. Holly Street Dallas TX 75287  254 E. Newbridge Avenue Dallas TX 75216  9380 East Mill Pond Ave. Dallas TX 75243  232 Fairview St. Dallas TX 75214
+  6 Plumb Branch Rd. Alvin TX 77511  500 Tarkiln Hill Rd. Alvin TX 77511  26 Wall Lane Alvin TX 77511  11 West Smith Lane Alvin TX 77511  17 Alderwood Rd. Amarillo TX 79106
+  24 Linda St. El Paso TX 79915  8630 Linden Court El Paso TX 79915  28 Main Rd. El Paso TX 79925  196 Meadowbrook Drive El Paso TX 79915  7862 Old Corona Lane El Paso TX 79904
+  78 Hanover Street Arlington TX 76017  5 Lawrence Street Arlington TX 76014  28 Manchester Rd. Arlington TX 76010  7285 N. Grant Ave. Arlington TX 76013  123 N. Heritage St. Arlington TX 76017
+  24 Myers Street Waco TX 76705  19 Peninsula St. Waco TX 76705  299 Pheasant Ave. Waco TX 76705  581 South Somerset Ave. Waco TX 76706  752 Brown Lane Waxahachie TX 75165
+  8987 Belmont Drive Houston TX 77023  86 Birch Hill Road Houston TX 77083  3 Birchpond Court Houston TX 77022  47 Bishop Court Houston TX 77023  191 Blue Spring Road Houston TX 77081
+  8414 Halifax St. San Angelo TX 76903  268 Ohio St. San Angelo TX 76904  3 Rockland Ave. San Angelo TX 76904  9725 Amherst Street San Antonio TX 78233  70 Argyle St. San Antonio TX 78212
+  7718 Brewery Road Dallas TX 75216  500 Bridgeton Ave. Dallas TX 75240  30 Carriage St. Dallas TX 75228  177 Cedarwood Rd. Dallas TX 75217  842 Central Street Dallas TX 75248
+  9749 West Lakewood Lane San Antonio TX 78249  54 Westminster Lane San Antonio TX 78217  30 Willow Road San Antonio TX 78217  7898 Wilson Rd. San Antonio TX 78245  19 Windfall Ave. San Antonio TX 78212
+  9436 North Wagon Ave. Eagle Pass TX 78852  39 Prairie Street Eagle Pass TX 78852  303 Applegate Street Edinburg TX 78539  9158 Gartner Drive Edinburg TX 78539  20 Miller Dr. Edinburg TX 78539
+  59 Evergreen Road Houston TX 77070  25 Fairview St. Houston TX 77017  303 Fairway Ave. Houston TX 77072  8973 Fieldstone St. Houston TX 77083  7286 Foster Ave. Houston TX 77084
+  80 Virginia Dr. Garland TX 75042  65 Walnutwood St. Garland TX 75041  305 Blue Spring Street Grand Prairie TX 75050  454 Brook St. Grand Prairie TX 75052  5 Cherry Hill Dr. Grand Prairie TX 75050
+  9377 Shady St. Houston TX 77088  24 Smoky Hollow St. Houston TX 77089  32 South Linden Lane Houston TX 77096  661 South Pheasant Dr. Houston TX 77066  5 South Smith Ave. Houston TX 77074
+  6 Aspen Drive San Antonio TX 78223  331 Bank Dr. San Antonio TX 78211  331 Bayberry Dr. San Antonio TX 78229  404 Berkshire St. San Antonio TX 78211  818 Birch Hill St. San Antonio TX 78240
+  45 Water St. Humble TX 77346  996 Columbia Lane Huntsville TX 77320  34 North St. Huntsville TX 77320  9232 S. Amerige St. Huntsville TX 77320  984 South School Lane Huntsville TX 77320
+  9335A Bayberry Road Burleson TX 76028  7849 Country Club St. Burleson TX 76028  34 West Bow Ridge Lane Burleson TX 76028  8578 West Santa Clara Dr. Burleson TX 76028  1 Carpenter Street Carrollton TX 75006
+  79 Old Yukon Court Arlington TX 76014  419 Plymouth Ave. Arlington TX 76014  35 Purple Finch Drive Arlington TX 76013  74 Ridgewood Road Arlington TX 76017  1 S. Manhattan Ave. Arlington TX 76014
+  328 Young Ave. Katy TX 77449  9005 Brandywine Lane Keller TX 76248  37 Monroe Ave. Keller TX 76248  8713 Schoolhouse Street Keller TX 76248  8985 South Applegate Lane Keller TX 76248
+  58 W. Oakland Ave. Corsicana TX 75110  62 William Ave. Corsicana TX 75110  38 Bow Ridge St. Cypress TX 77429  296 Tower St. Cypress TX 77429  454 Trenton Dr. Cypress TX 77429
+  859 East Border St. Abilene TX 79605  115 East Dr. Abilene TX 79605  39 Kingston St. Abilene TX 79605  258 Ocean Court Abilene TX 79605  189 Clay St. Alice TX 78332
+  8 Longbranch St. Houston TX 77036  8944 Longfellow Dr. Houston TX 77036  4 Lyme St. Houston TX 77016  470 Magnolia St. Houston TX 77024  64 Main Road Houston TX 77066
+  29 Carriage Rd. Harlingen TX 78552  77 Heritage St. Harlingen TX 78550  413 Lilac Ave. Harlingen TX 78550  8124 Race Road Harlingen TX 78552  9 Vine St. Harlingen TX 78552
+  6 Winding Way St. San Antonio TX 78230  9426 Jockey Hollow Drive San Benito TX 78586  42 Lawrence Ave. San Benito TX 78586  31 Poplar Street San Benito TX 78586  8969 Smith St. San Benito TX 78586
+  33 Southampton St. Fort Worth TX 76133  8085 Sulphur Springs Lane Fort Worth TX 76119  43 W. Helen Street Fort Worth TX 76137  7154 Wrangler Lane Fort Worth TX 76112  970 Bridge Street Friendswood TX 77546
+  9444 James Ave. Dallas TX 75211  9583 James Drive Dallas TX 75287  451 Kingston Ave. Dallas TX 75224  94 Kingston Court Dallas TX 75230  9824 Lafayette Drive Dallas TX 75229
+  290 E. Greenview St. Victoria TX 77901  7090 East County Street Victoria TX 77901  452 Edgewater Road Victoria TX 77901  8069 W. Southampton St. Victoria TX 77901  988 Beaver Ridge Lane Vidor TX 77662
+    47 Fremont Street Weslaco TX 78596  63 River Ave. Weslaco TX 78596  9942 Rockcrest St. Weslaco TX 78596
+  148 Silver Spear Street Waxahachie TX 75165  927 Squaw Creek Ave. Waxahachie TX 75165  47 Fremont Street Weslaco TX 78596  63 River Ave. Weslaco TX 78596  9942 Rockcrest St. Weslaco TX 78596
+  9798 Pilgrim Street San Antonio TX 78245  9046 Prince Lane San Antonio TX 78209  47 Proctor Dr. San Antonio TX 78250  7909 Race Court San Antonio TX 78230  51 River Ave. San Antonio TX 78216
+  8764 Woodside St. Dallas TX 75287  9111 Woodsman Rd. Dallas TX 75248  473 Hilldale Street Dayton TX 77535  2 Holly Drive Dayton TX 77535  44 John Court Dayton TX 77535
+  51 Redwood Dr. Dallas TX 75229  80 Ridge St. Dallas TX 75240  477 Roosevelt Street Dallas TX 75220  8564 S. Henry Smith Street Dallas TX 75208  9882 S. Main Dr. Dallas TX 75220
+  66 Rockland Court San Antonio TX 78245  14 Rockwell St. San Antonio TX 78218  48 S. Bellevue Drive San Antonio TX 78232  8008 S. Hilldale Drive San Antonio TX 78229  9055 S. Riverside Drive San Antonio TX 78207
+  49 Beechwood St. Laredo TX 78046  54 Blackburn Lane Laredo TX 78040  486 Elm Lane Laredo TX 78045  33 Essex Street Laredo TX 78045  8064 Glen Creek Street Laredo TX 78040
+  87 Redwood Road Cleburne TX 76031  37 San Carlos Dr. Cleburne TX 76031  492 Shore Rd. Cleburne TX 76031  346 Stillwater Lane Cleburne TX 76031  11 Briarwood Dr. Cleveland TX 77327
+  926 North Gregory St. Houston TX 77008  8079 Nut Swamp Lane Houston TX 77096  5 Old Adams St. Houston TX 77084  77 Orchard Street Houston TX 77062  131 Pawnee Avenue Houston TX 77088
+  211 Cemetery Rd. Austin TX 78758  9700 Center Street Austin TX 78745  518 Charles Drive Austin TX 78753  7168 Depot St. Austin TX 78723  7324 E. Henry Smith Ave. Austin TX 78745
+  18 W. Beech Drive McAllen TX 78501  24 Glenwood Ave. Mercedes TX 78570  52 Lower River Street Mercedes TX 78570  7157 N. Hanover Street Mercedes TX 78570  21 North Vernon St. Mercedes TX 78570
+  839 Miller Ave. Garland TX 75042  7133 Miller Court Garland TX 75041  54 Primrose Dr. Garland TX 75040  864 S. Fairway Lane Garland TX 75044  15 Tallwood Court Garland TX 75043
+  9651 Marlborough Rd. Houston TX 77042  107 Marsh St. Houston TX 77015  55 Military Rd. Houston TX 77095  823 Mill Drive Houston TX 77082  768 Mill Rd. Houston TX 77063
+  90 Myrtle Dr. Houston TX 77081  941 N. Talbot St. Houston TX 77096  551 NW. Saxon Rd. Houston TX 77015  550 Newport Street Houston TX 77055  7573 North 6th Street Houston TX 77004
+  803 N. Glen Eagles Dr. College Station TX 77840  9739 Roberts Court College Station TX 77845  56 Shub Farm Ave. College Station TX 77840  686 Sunbeam Ave. College Station TX 77845  83 E. Rockland Lane Coppell TX 75019
+  93 Victoria St. Texarkana TX 75501  43 Wellington Ave. Texarkana TX 75501  565 Locust Dr. The Colony TX 75056  7469 Philmont Ave. The Colony TX 75056  146 Rocky River St. The Colony TX 75056
+  393 S. Talbot St. Houston TX 77060  8139 SE. Prospect St. Houston TX 77057  57 SE. Roosevelt Street Houston TX 77065  729 SW. Glen Eagles Street Houston TX 77074  56 School St. Houston TX 77008
+  7691 North Hilltop Ave. Angleton TX 77515  145 West Olive Dr. Angleton TX 77515  571 Bear Hill Ave. Arlington TX 76011  8471 Bear Hill Street Arlington TX 76013  177 Briarwood Court Arlington TX 76017
+  8402 Grove St. Irving TX 75061  942 High Ridge St. Irving TX 75061  577 Ketch Harbour Drive Irving TX 75060  8373 North Mill Dr. Irving TX 75062  729 Penn Dr. Irving TX 75060
+  50 Adams Street Houston TX 77042  18 Albany Drive Houston TX 77017  59 Amherst Avenue Houston TX 77064  5 Applegate St. Houston TX 77095  8462 Arcadia Ave. Houston TX 77039
+  451 Birch Hill Street Round Rock TX 78664  147 Blue Spring St. Round Rock TX 78681  59 Cooper St. Round Rock TX 78681  87 Harvard Dr. Round Rock TX 78664  78 Henry Smith Rd. Round Rock TX 78681
+  31 Ivy Rd. San Antonio TX 78210  40 La Sierra St. San Antonio TX 78213  59 Lafayette Street San Antonio TX 78250  441 Lake View St. San Antonio TX 78240  9245 Lawrence Street San Antonio TX 78229
+  276 Evergreen Lane Kerrville TX 78028  8825 N. Carriage Dr. Kerrville TX 78028  6 Thatcher Street Kerrville TX 78028  84 Bedford St. Killeen TX 76544  306 Honey Creek St. Killeen TX 76543
+  7799 Gainsway Dr. Houston TX 77093  613 Garden St. Houston TX 77055  614 Glen Ridge Road Houston TX 77080  32 Golf Lane Houston TX 77092  9674 Gonzales Road Houston TX 77065
+  41 Pawnee Court Pharr TX 78577  9 Inverness St. Plainview TX 79072  617 Princeton St. Plainview TX 79072  7302 S. Essex Lane Plainview TX 79072  88 Spring Ave. Plainview TX 79072
+  593 Walt Whitman Court Plano TX 75074  213 East Heather Street Port Arthur TX 77642  625 Lower River Circle Port Arthur TX 77642  49 Nichols Lane Port Arthur TX 77642  964 Saxton St. Port Arthur TX 77642
+  8162 E. Proctor Dr. Vidor TX 77662  18 Wayne St. Vidor TX 77662  629 Bedford St. Waco TX 76705  91 Green Hill Ave. Waco TX 76706  550 Helen St. Waco TX 76706
+  36 Kingston St. Missouri City TX 77489  52 Lafayette St. Missouri City TX 77459  637 New Street Missouri City TX 77489  9494 Plymouth Street Missouri City TX 77459  62 Tanglewood Road Missouri City TX 77459
+  43 West Smoky Hollow St. Houston TX 77064  8824 West Squaw Creek Street Houston TX 77095  639 West Sunnyslope St. Houston TX 77057  76 West Valley View St. Houston TX 77099  47 White Street Houston TX 77077
+  8776 Circle Drive San Antonio TX 78247  76 College Street San Antonio TX 78242  64 Cottage Ave. San Antonio TX 78221  95 Crescent St. San Antonio TX 78247  39 Cypress Dr. San Antonio TX 78249
+  916 Johnson St. Coppell TX 75019  86 Lantern St. Coppell TX 75019  66 Garden Street Copperas Cove TX 76522  97 Lafayette Ave. Copperas Cove TX 76522  7294 Second St. Copperas Cove TX 76522
+  259 Gregory Ave. Sugar Land TX 77478  7773 Gulf St. Sugar Land TX 77479  66 High Noon Street Sugar Land TX 77478  364 N. Pleasant Rd. Sugar Land TX 77479  9237 Lower River Court Texarkana TX 75501
+  9482 Thatcher Ave. Houston TX 77065  363 Tower Street Houston TX 77080  661 Vale Street Houston TX 77035  7914 Valley Ave. Houston TX 77070  2 Valley Farms Dr. Houston TX 77076
+  4 Foster Lane Richardson TX 75080  424 Golden Star Court Richardson TX 75080  662 NW. Golden Star Street Richardson TX 75081  87 Old Hudson Drive Richardson TX 75081  331 West Hudson Ave. Richardson TX 75081
+  719 East Spruce Lane Austin TX 78758  7808 Fairfield St. Austin TX 78704  664 Fulton Drive Austin TX 78759  527 Gartner St. Austin TX 78759  940 Glenholme Dr. Austin TX 78741
+  179 Sherwood Drive Beaumont TX 77705  72 Tanglewood Street Beaumont TX 77705  67 2nd St. Bedford TX 76021  9663 Beach Dr. Bedford TX 76021  76 Brookside Lane Bedford TX 76021
+  8078 Miles Dr. Killeen TX 76543  7972 North Lake Forest Ave. Killeen TX 76543  679 Peachtree St. Killeen TX 76543  2 Sussex St. Killeen TX 76544  489 W. Tanglewood Lane Killeen TX 76544
+  93 South Sussex Street Houston TX 77009  48 Squaw Creek Dr. Houston TX 77089  679 St Margarets Road Houston TX 77023  8053 Sugar Court Houston TX 77070  69 Sugar Street Houston TX 77036
+  66 10th Ave. Dallas TX 75248  567 8th Drive Dallas TX 75228  68 Alton Avenue Dallas TX 75229  7829 Andover Ave. Dallas TX 75234  49 Bay Street Dallas TX 75211
+  357 S. Pheasant Dr. Laredo TX 78046  22 S. Snake Hill Rd. Laredo TX 78041  68 Saxton Dr. Laredo TX 78046  42 Somerset St. Laredo TX 78043  8589 Sunnyslope Ave. Laredo TX 78046
+  265 Princeton Court Houston TX 77009  6 Princeton Dr. Houston TX 77020  696 Pulaski Ave. Houston TX 77016  497 Richardson St. Houston TX 77096  85 Ridgewood St. Houston TX 77026
+  50 Whitemarsh Street Lewisville TX 75067  11 1st Ave. Livingston TX 77351  7 1st Drive Livingston TX 77351  8900 Boston Rd. Livingston TX 77351  75 High Point Court Livingston TX 77351
+  8322 University Lane San Antonio TX 78245  29 Vernon St. San Antonio TX 78216  7026 Virginia Circle San Antonio TX 78216  7370 Virginia Dr. San Antonio TX 78223  426 Water Dr. San Antonio TX 78227
+  8172 S. Cemetery Lane Pasadena TX 77506  523 Summer Dr. Pasadena TX 77506  7032 Valley Court Pasadena TX 77506  241 Corona Dr. Pearland TX 77584  392 Court Court Pearland TX 77581
+  2 Fieldstone Lane Lewisville TX 75067  9797 South Lane Lewisville TX 75067  7074 Virginia Ave. Lewisville TX 75077  9049 Virginia Rd. Lewisville TX 75077  7177 West Kirkland Road Lewisville TX 75067
+  7754 S. Thompson Rd. Irving TX 75060  675 San Carlos Dr. Irving TX 75061  7128 South Anderson Drive Irving TX 75062  7607B Stillwater St. Irving TX 75060  2 Woodland Rd. Irving TX 75061
+  510 Hill Road Palestine TX 75801  9055 Lancaster Drive Pasadena TX 77502  7158 Leatherwood Court Pasadena TX 77502  15 Marvon Avenue Pasadena TX 77502  566 N. Bow Ridge Street Pasadena TX 77506
+  43 Forest Ave. Mc Kinney TX 75069  779 Grand Street Mc Kinney TX 75069  7159 Greystone St. Mc Kinney TX 75070  68 Swanson Avenue Mc Kinney TX 75069  378 Tunnel St. Mc Kinney TX 75070
+  54 Manchester Ave. Mesquite TX 75149  845 Nut Swamp St. Mesquite TX 75149  7198 Oxford Circle Mesquite TX 75150  120 Sleepy Hollow Ave. Mesquite TX 75149  566 Sunbeam Lane Mesquite TX 75150
+  30 High Point Avenue Austin TX 78753  952 Hill Street Austin TX 78744  72 Homestead Circle Austin TX 78753  94 Jefferson Drive Austin TX 78704  7808 John St. Austin TX 78744
+  46 S. Liberty St. Alice TX 78332  311 West Cooper Rd. Alice TX 78332  720 East Princeton Lane Allen TX 75002  119 Hartford St. Allen TX 75002  1 South Rockwell Ave. Allen TX 75002
+  681 Sherwood Drive San Antonio TX 78221  8333 Shirley Street San Antonio TX 78201  723 Sierra Street San Antonio TX 78211  661 South Augusta Ave. San Antonio TX 78228  318 South Hillcrest St. San Antonio TX 78242
+  200 Applegate Circle Tomball TX 77375  93 Garfield Rd. Tomball TX 77375  7274 Ivy Drive Tomball TX 77375  8046 NE. Peg Shop Dr. Tomball TX 77375  6 Annadale St. Tyler TX 75701
+  71 Gulf Ave. Houston TX 77093  623 Harvey Ave. Houston TX 77063  73 Hickory Street Houston TX 77076  79 High Ridge Ave. Houston TX 77022  474 Hillcrest Ave. Houston TX 77082
+  719 Hill Ave. Euless TX 76039  325 West Winding Way Ave. Euless TX 76039  731 Clinton Court Flower Mound TX 75028  454 Creek Street Flower Mound TX 75028  9344 Franklin Lane Flower Mound TX 75028
+  7359 Tunnel St. Lubbock TX 79424  9342 Arrowhead Ave. Lufkin TX 75904  731 Hill Field Drive Lufkin TX 75904  29 La Sierra Drive Lufkin TX 75904  527 S. Pleasant Rd. Lufkin TX 75904
+  8388 Cooper St. Deer Park TX 77536  862 N. West St. Deer Park TX 77536  733 Rosewood Lane Deer Park TX 77536  70 West 4th Ave. Deer Park TX 77536  9983 Arcadia Ave. Del Rio TX 78840
+  5 Fairfield Drive Nacogdoches TX 75961  86 Race Ave. Nacogdoches TX 75961  737 Wrangler Street Nacogdoches TX 75961  708 Ashley Lane New Braunfels TX 78130  83 Del Monte St. New Braunfels TX 78130
+  520A Bay Meadows St. Garland TX 75044  7211 Bayberry Ave. Garland TX 75041  7399 Belmont St. Garland TX 75042  441 Border Court Garland TX 75043  746 Buttonwood Lane Garland TX 75044
+  53 Franklin St. Dallas TX 75206  43 Fremont Street Dallas TX 75206  7421 George St. Dallas TX 75229  5 Glen Ridge Ave. Dallas TX 75224  546 Glenholme Dr. Dallas TX 75240
+  38 Winchester Ave. Houston TX 77092  898 Winchester Rd. Houston TX 77082  7499 Windfall Lane Houston TX 77062  462 Windsor Drive Houston TX 77070  334 York Ave. Houston TX 77066
+  25 Grand Drive San Antonio TX 78207  7729 Grant Lane San Antonio TX 78237  7529 Gulf Ave. San Antonio TX 78230  668 Howard Street San Antonio TX 78233  696 Hudson St. San Antonio TX 78213
+  7861 Olive St. El Paso TX 79912  757 Pacific St. El Paso TX 79905  753 Rockledge St. El Paso TX 79924  123 S. Coffee Rd. El Paso TX 79924  631 SW. Pineknoll Street El Paso TX 79927
+  30 State St. Belton TX 76513  8528 West Stillwater St. Belton TX 76513  758 E. Miles Court Big Spring TX 79720  871 Henry Smith Ave. Big Spring TX 79720  8439 Pilgrim Road Big Spring TX 79720
+  9505 Annadale St. Fort Worth TX 76119  712 Arcadia Ave. Fort Worth TX 76110  7615 Atlantic Street Fort Worth TX 76119  9033 Bishop Court Fort Worth TX 76116  3 Bowman St. Fort Worth TX 76112
+  8681 Laurel Rd. Cleveland TX 77327  989 Prince Ave. Cleveland TX 77327  77 Cherry Hill St. College Station TX 77840  663 Henry Smith St. College Station TX 77840  63 Market Drive College Station TX 77845
+  7020 Pine Dr. Mission TX 78572  18 Riverview St. Mission TX 78572  77 Roosevelt St. Mission TX 78572  38 Canterbury Court Missouri City TX 77459  87 E. Pawnee St. Missouri City TX 77489
+  9987 Van Dyke Rd. Dallas TX 75214  797C W. Mayfair Street Dallas TX 75216  77 W. Princeton Lane Dallas TX 75208  161 Wakehurst Rd. Dallas TX 75243  447 Wayne Dr. Dallas TX 75211
+  73 Pine Ave. Plano TX 75023  7571 Piper St. Plano TX 75025  7714 Prince Rd. Plano TX 75093  7232 SE. Brickyard Dr. Plano TX 75075  9070 Sleepy Hollow Circle Plano TX 75074
+  9145 Rock Creek Dr. Desoto TX 75115  60 Yukon Road Desoto TX 75115  7732 Blue Spring Street Dickinson TX 77539  266 Cooper St. Dickinson TX 77539  8549 Fulton Drive Dickinson TX 77539
+  9099 Virginia Lane Stafford TX 77477  68 W. Kingston Dr. Stafford TX 77477  786 Clark St. Sugar Land TX 77478  8744 Fawn Dr. Sugar Land TX 77479  5 Foxrun Drive Sugar Land TX 77479
+  282 E. Mayfield St. Houston TX 77023  45 E. Summer St. Houston TX 77033  7904 East Rosewood Avenue Houston TX 77035  478 East Sage Drive Houston TX 77087  86 East Tailwater Court Houston TX 77077
+  93 Brewery Ave. Spring TX 77381  138 Cambridge St. Spring TX 77379  7B Charles Drive Spring TX 77381  896 Del Monte Street Spring TX 77379  8859 Durham Drive Spring TX 77379
+  7935 Wayne St. Arlington TX 76016  9563 West Selby Drive Arlington TX 76016  8 10th Street Austin TX 78741  552 Bridgeton Road Austin TX 78723  8690 Canterbury St. Austin TX 78744
+  874 Grove Lane Tyler TX 75701  944 Meadow Court Tyler TX 75703  8 Pennsylvania Ave. Tyler TX 75701  8964 Riverside Street Tyler TX 75703  7681 Summerhouse Ave. Tyler TX 75703
+  7792 Overlook Court Denton TX 76201  706 Pacific Street Denton TX 76201  80 Philmont Avenue Denton TX 76205  37 S. Philmont Dr. Denton TX 76205  639 N. Parker Lane Desoto TX 75115
+  6 State St. San Antonio TX 78221  972 Summer St. San Antonio TX 78221  8142 Sunnyslope Dr. San Antonio TX 78218  9 Sutor Rd. San Antonio TX 78229  9842 Tanglewood Ave. San Antonio TX 78213
+  447 Roberts Drive Austin TX 78741  4 S. Bedford Lane Austin TX 78744  815 S. Nichols St. Austin TX 78749  89 Selby St. Austin TX 78745  492 Shadow Brook St. Austin TX 78749
+  956 North Queen Road Friendswood TX 77546  383 North Tanglewood Street Friendswood TX 77546  8170 Bridge Street Galveston TX 77550  426 E. Wild Rose Court Galveston TX 77550  803 Maiden Street Galveston TX 77550
+  7752 Linda Drive New Braunfels TX 78130  7409 Canterbury Street North Richland Hills TX 76180  818 Lafayette Court North Richland Hills TX 76180  7915 N. Queen St. North Richland Hills TX 76180  5 S. Greenrose St. North Richland Hills TX 76180
+  40 W. Airport St. Corpus Christi TX 78411  9845 Walnutwood St. Corpus Christi TX 78411  822 Wayne Drive Corpus Christi TX 78412  7425 West Glen Eagles St. Corpus Christi TX 78413  115 Fairview St. Corsicana TX 75110
+  55 Church Street Houston TX 77082  9661 Clay Ave. Houston TX 77016  8228 Constitution Lane Houston TX 77066  7767 Cooper Drive Houston TX 77039  8393 County Street Houston TX 77079
+  115 Ridgeview Lane Round Rock TX 78681  939 Arrowhead Street San Angelo TX 76903  8264 Baker Rd. San Angelo TX 76903  890 Beechwood St. San Angelo TX 76904  80 Cambridge Street San Angelo TX 76904
+  64 Silver Spear Rd. Austin TX 78704  9258 W. Kent Lane Austin TX 78723  83 Edgemont Dr. Baytown TX 77520  5 Glenholme Street Baytown TX 77520  952 Gonzales Lane Baytown TX 77521
+  949 Vernon St. Houston TX 77077  190 Vine Drive Houston TX 77079  8320 Virginia Ave. Houston TX 77020  389 Virginia Dr. Houston TX 77009  791 W. Essex Ave. Houston TX 77072
+  296 Chapel Dr. Odessa TX 79762  99 Hartford Street Odessa TX 79762  844 Helen Drive Odessa TX 79763  7105 Liberty Street Odessa TX 79762  9168 North Beechwood Ave. Odessa TX 79761
+  7632 Fairground Lane San Antonio TX 78209  393 Fairview St. San Antonio TX 78250  847 Forest St. San Antonio TX 78240  648 Franklin St. San Antonio TX 78228  8690 Gates Drive San Antonio TX 78232
+  8782 Bishop St. Pflugerville TX 78660  712 Maiden Street Pflugerville TX 78660  8524 West Kent Lane Pflugerville TX 78660  70 Baker Lane Pharr TX 78577  62 Brown Street Pharr TX 78577
+  68 Lancaster St. Fort Worth TX 76106  35 Market Court Fort Worth TX 76133  858 N. Ridgewood Court Fort Worth TX 76116  9833 N. Summit St. Fort Worth TX 76133  80 Old 4th St. Fort Worth TX 76106
+  11 East Cypress St. Haltom City TX 76117  7937 East High Noon Lane Haltom City TX 76117  86 N. Jefferson St. Haltom City TX 76117  168 NW. Taylor Ave. Haltom City TX 76117  463 Bedford Ave. Harlingen TX 78552
+  9090 Primrose St. Fort Worth TX 76137  9276 Princess Lane Fort Worth TX 76106  8600 Riverview St. Fort Worth TX 76133  1 S. Andover Street Fort Worth TX 76110  40 SW. Sycamore St. Fort Worth TX 76116
+  522 Brickyard St. San Antonio TX 78209  29 Brown Lane San Antonio TX 78227  861 Buckingham Street San Antonio TX 78223  970 Cardinal Avenue San Antonio TX 78247  3 Cedar Swamp Ave. San Antonio TX 78242
+  960 Old Hamilton St. Dallas TX 75220  149 Parker St. Dallas TX 75208  863 Pheasant Drive Dallas TX 75206  8308 Plymouth St. Dallas TX 75243  8360 Prairie Avenue Dallas TX 75231
+  11 Longfellow Ave. San Antonio TX 78201  378 Manhattan St. San Antonio TX 78227  8701B Maple St. San Antonio TX 78210  5 Mayflower Street San Antonio TX 78250  3 Mountainview Dr. San Antonio TX 78212
+  375 Kirkland Dr. Carrollton TX 75007  74 N. Parker Road Carrollton TX 75006  8744 Pawnee St. Carrollton TX 75006  15 Railroad Rd. Carrollton TX 75006  7412 Snake Hill Street Carrollton TX 75007
+  344 East Lafayette Drive McAllen TX 78504  2 East Summerhouse Street McAllen TX 78501  8788 Lakeview Ave. McAllen TX 78501  7674 Redwood Dr. McAllen TX 78501  391 Roosevelt St. McAllen TX 78504
+  9070 West Ivy Dr. Dallas TX 75238  24 West Lexington St. Dallas TX 75208  8798 West Wild Horse St. Dallas TX 75234  779 White Drive Dallas TX 75217  7228 Williams Rd. Dallas TX 75211
+  9261 High Drive Plano TX 75074  8 Highland Rd. Plano TX 75074  8841 Holly Street Plano TX 75023  76 Longbranch St. Plano TX 75093  31 Marlborough St. Plano TX 75025
+  7610 S. Pineknoll Street Dallas TX 75227  73 SW. Summerhouse St. Dallas TX 75234  8867 Saxon Court Dallas TX 75243  383 Smith St. Dallas TX 75238  957 Smith Store St. Dallas TX 75228
+  771 Lakewood Street Houston TX 77033  975 Lexington St. Houston TX 77060  89 Lexington Street Houston TX 77057  7877 Liberty Ave. Houston TX 77072  91 Linda Ave. Houston TX 77026
+  94 Leeton Ridge Dr. Corpus Christi TX 78412  733 Maiden St. Corpus Christi TX 78413  89 Mill St. Corpus Christi TX 78411  7128 Old Hanover Ave. Corpus Christi TX 78413  792 S. Bohemia Drive Corpus Christi TX 78415
+  75 Plumb Branch Rd. Odessa TX 79761  744 Plymouth Lane Odessa TX 79761  8917 Ryan Ave. Odessa TX 79763  587 SW. Eagle Street Odessa TX 79763  365 Somerset St. Odessa TX 79761
+  8669 North Sutor Ave. San Antonio TX 78242  727 Orchard Rd. San Antonio TX 78233  8919 Oxford Street San Antonio TX 78232  8530 Peachtree Ave. San Antonio TX 78249  429 Peachtree St. San Antonio TX 78216
+  932 Roberts Dr. Amarillo TX 79107  8756 Tower Street Amarillo TX 79107  8919 W. Meadowbrook Dr. Amarillo TX 79107  661 West Trusel Dr. Amarillo TX 79109  7151 East Poplar Court Angleton TX 77515
+  225 Manhattan St. Mansfield TX 76063  7526 S. Edgefield Street Mansfield TX 76063  8958 South Armstrong Dr. Mansfield TX 76063  343 Armstrong Lane Mc Kinney TX 75070  71 Creek St. Mc Kinney TX 75069
+  6 E. Ashley Lane San Antonio TX 78230  8423 East Arnold Street San Antonio TX 78211  897 East Mountainview Lane San Antonio TX 78217  91 East Paris Hill Ave. San Antonio TX 78207  26 Edgewood Lane San Antonio TX 78237
+  55 Helen Drive San Juan TX 78589  616 Marshall St. San Juan TX 78589  8992 Poor House Lane San Juan TX 78589  7227B Oklahoma Street San Marcos TX 78666  7707 Princess Street San Marcos TX 78666
+  82 Edgefield Lane Richmond TX 77469  8775 Old York Street Richmond TX 77469  9 Wild Rose St. Richmond TX 77469  764 Cedarwood Dr. Rio Grande City TX 78582  8551 E. Santa Clara Drive Rio Grande City TX 78582
+  8974 Golf Court El Paso TX 79925  93 Grand St. El Paso TX 79912  90 Gulf Lane El Paso TX 79936  9 Iroquois Road El Paso TX 79936  5 Lafayette Rd. El Paso TX 79925
+  51 East El Dorado Rd. Grand Prairie TX 75050  92 Fairview St. Grand Prairie TX 75052  9035 Lakeview Drive Grand Prairie TX 75051  54 Oklahoma Ave. Grand Prairie TX 75052  8475B Pennsylvania St. Grand Prairie TX 75051
+  8084 Cemetery Ave. Fort Worth TX 76137  9945 Clay St. Fort Worth TX 76110  9069 Cross Street Fort Worth TX 76112  8695 E. North Lane Fort Worth TX 76137  7037 E. Shore Road Fort Worth TX 76110
+  7934 Lexington Court Laredo TX 78045  7119 Lexington St. Laredo TX 78040  91 Mulberry Lane Laredo TX 78045  9556 North Dr. Laredo TX 78040  72 Old York Court Laredo TX 78043
+  9988 W. Pineknoll Ave. La Porte TX 77571  41 Ashley St. Lake Jackson TX 77566  9164 Bald Hill Street Lake Jackson TX 77566  9 Fifth Ave. Lake Jackson TX 77566  751 Tower Court Lake Jackson TX 77566
+  1 Brook Drive Red Oak TX 75154  7 Glen Eagles Ave. Red Oak TX 75154  9264 Lyme Avenue Red Oak TX 75154  9559 Albany Road Richardson TX 75081  970 Corona Dr. Richardson TX 75080
+  8512 Ocean Drive Baytown TX 77521  7644 Olive St. Baytown TX 77520  93 Saxon St. Baytown TX 77521  401 Tunnel St. Baytown TX 77520  236 Applegate Lane Beaumont TX 77705
+  9461 Littleton St. Orange TX 77630  690 Pin Oak St. Orange TX 77630  93 Westport St. Orange TX 77630  9047 East Argyle Dr. Palestine TX 75801  76 East Hawthorne St. Palestine TX 75801
+  9776 Grove Street Dallas TX 75217  853 High Point St. Dallas TX 75224  9300 Homewood Ave. Dallas TX 75227  8678 Hudson Lane Dallas TX 75231  285 Inverness Street Dallas TX 75232
+  32 4th Drive Brownsville TX 78521  7427 Big Rock Cove Road Brownsville TX 78520  932 Gregory Street Brownsville TX 78521  547 Linden Avenue Brownsville TX 78521  22 New St. Brownsville TX 78520
+  980 West Valley Farms Street Grand Prairie TX 75051  394 Westport Street Grand Prairie TX 75051  9345 Cemetery St. Grapevine TX 76051  697 E. Sutor St. Grapevine TX 76051  486 Lakeshore Drive Grapevine TX 76051
+  590 NE. Golf St. Spring TX 77373  6 North Alton Ave. Spring TX 77373  9348 South Lake Drive Spring TX 77381  9913 South Liberty Avenue Spring TX 77381  7630 Acacia St. Stafford TX 77477
+  85 Anderson St. Longview TX 75604  9200 Hartford Street Longview TX 75604  9364 Walnutwood Street Longview TX 75604  353 Beech Ave. Lubbock TX 79424  51 Briarwood Street Lubbock TX 79424
+  33 1st St. Houston TX 77080  31 2nd Road Houston TX 77055  9396 3rd Drive Houston TX 77039  9923 6th Drive Houston TX 77088  36 Academy Ave. Houston TX 77099
+  8961 Corona St. El Paso TX 79936  101 E. 8th Street El Paso TX 79904  94 E. Westport Drive El Paso TX 79927  392 Euclid Street El Paso TX 79924  49 Glen Ridge Dr. El Paso TX 79907
+  776 Creek Street Beeville TX 78102  8361 Glenridge St. Beeville TX 78102  940 Indian Spring Avenue Beeville TX 78102  7086 Sleepy Hollow Dr. Beeville TX 78102  7497 Green Lake Court Belton TX 76513
+  358 West High Noon Street Laredo TX 78043  190 Manor Lane League City TX 77573  9462 North 2nd Road League City TX 77573  8637 Smoky Hollow Avenue League City TX 77573  8100 Third Drive League City TX 77573
+  7529 Bradford Ave. Houston TX 77015  7408 Bradford Avenue Houston TX 77089  949 Brown Rd. Houston TX 77057  853 Carriage St. Houston TX 77081  58 Carson Drive Houston TX 77042
+  4 South Vermont St. Dallas TX 75214  7477 St Margarets St. Dallas TX 75217  9580 Summerhouse Street Dallas TX 75238  9372 Sutor Street Dallas TX 75287  7804 Thatcher Ave. Dallas TX 75230
+  648 Inverness St. Houston TX 77015  948 Ivy Dr. Houston TX 77084  971 Jennings Road Houston TX 77076  8443 Jockey Hollow Dr. Houston TX 77026  6 Ketch Harbour St. Houston TX 77035
+  809 Rock Maple Rd. Houston TX 77033  744 Rocky River Court Houston TX 77024  9723 Rose Dr. Houston TX 77036  78 S. Arnold St. Houston TX 77084  862 S. Fairground St. Houston TX 77033
+  93 Blackburn Street Cedar Hill TX 75104  831 Indian Spring Drive Cedar Hill TX 75104  9736 Sleepy Hollow Rd. Cedar Hill TX 75104  8296 W. Cambridge Rd. Cedar Hill TX 75104  825 East Thompson Street Cedar Park TX 78613
+  8089 Main St. Dallas TX 75231  7426 Manchester St. Dallas TX 75232  98 Marconi St. Dallas TX 75227  9735 Marsh Road Dallas TX 75240  8572 Myrtle Rd. Dallas TX 75232
+  46 Cobblestone St. Humble TX 77346  8430 Hamilton St. Humble TX 77346  98 Proctor Dr. Humble TX 77339  592 Rock Maple Ave. Humble TX 77339  766 South Rockledge St. Humble TX 77339
+  9828 Hillcrest Drive Kingsville TX 78363  70 Taylor Court Kingsville TX 78363  9829 West Ave. Kingsville TX 78363  13 Belmont Ave. La Porte TX 77571  916 Ivy Road La Porte TX 77571
+  9391 Poplar St. Cedar Park TX 78613  186 Pulaski Ave. Cedar Park TX 78613  9893 Atlantic Drive Channelview TX 77530  71 Clinton Street Channelview TX 77530  7925 South Rose Street Channelview TX 77530
+  41 Ann Lane El Paso TX 79907  16 Big Rock Cove Street El Paso TX 79924  99 Blackburn St. El Paso TX 79927  70 Bridge St. El Paso TX 79915  264 Campfire Court El Paso TX 79912
+  64 Walt Whitman Dr. Houston TX 77065  402 Walt Whitman St. Houston TX 77017  9913 Wentworth St. Houston TX 77004  78 West Cedar Swamp Ave. Houston TX 77008  310 West Court Houston TX 77039
+  3 Lilac St. Del Rio TX 78840  52 San Carlos St. Del Rio TX 78840  9956 Depot St. Denton TX 76205  8495 Honey Creek Rd. Denton TX 76201  8403 NE. Lake View Lane Denton TX 76205
+  9471 Ridge Court Rio Grande City TX 78582  7879 Hill Street Rosenberg TX 77471  997 Madison Ave. Rosenberg TX 77471  598 Oakwood Drive Rosenberg TX 77471  54 Philmont St. Rosenberg TX 77471
+  973 Arch Street Houston TX 77062  3 Atlantic St. Houston TX 77062  9997 Bay Meadows St. Houston TX 77024  1 Beach Circle Houston TX 77087  7819 Beacon Dr. Houston TX 77089
+
